@@ -9,17 +9,6 @@ This project is part of the AI/ML Internship program for the June 2025 cohort. T
 
 ## 📁 Project Structure
 
-├── Dataset.xlsx # Original Excel dataset with multiple sheets
-├── data_cleaned.csv # Cleaned dataset after preprocessing
-├── data_preparation.ipynb # Notebook for data loading and cleaning
-├── data_exploration.ipynb # Notebook for EDA and visualizations
-└── README.md # Project documentation (this file)
-
-yaml
-Copy code
-
----
-
 ## ✅ Week 1 Milestone – Data Cleaning & Preparation  
 📅 **Completed: 18 June 2025**
 
