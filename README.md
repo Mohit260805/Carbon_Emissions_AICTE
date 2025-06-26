@@ -53,7 +53,7 @@ Copy code
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook
+- vs code
 
 ---
 
