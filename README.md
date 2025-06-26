@@ -1,6 +1,6 @@
 # Carbon_Emissions_AICTE
 
-**This is the project about CO2 Emission Prediction**
+
 **AI/ML Internship Project – June 2025 Batch**
 
 This project is part of the AI/ML Internship program for the June 2025 cohort. The goal is to explore, clean, and prepare a climate dataset focusing on **CO₂ emissions and other greenhouse gases** for future machine learning tasks.
